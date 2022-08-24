@@ -10,7 +10,7 @@ This project analyzes Amazon Vine program and determines if there is a bias towa
 Based on the outcome below:
 
 
-![this is an image]()
+![this is an image](https://github.com/Orangexinlan/Amazon_Vine_Analysis/blob/2961ade3d63a122490be912d11d56e34054a7d0e/analysis.png)
 
 ## Summary
 
